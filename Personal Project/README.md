@@ -27,4 +27,9 @@ if you don't have pyinstaller installed you should run this command
      
 ## Usage 
 Before running this programe make sure to change the IP addres in both files to the ip addres of your serveur 
+then you can run any systeme commande or any of these
 
+#### Commands
+| Command   | Description                                                                    |
+| --------- | ------------------------------------------------------------------------------ |
+| `screen`   | Take a Screenshot of the computer and getting it on your own                                                   |
