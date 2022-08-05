@@ -25,13 +25,11 @@ if you don't have pyinstaller installed you should run this command
 
      pip install pyinstaller
      
+## Fonctionalites
+This backdoor can run on both Windows and linux and will grand you full controle of that computer, you can use all the systeme commandes you can execute programmes, you can take screenshots you umpload and download files and it's also persistent 
 ### Usage 
 Before running this programe make sure to change the IP addres in both files to the ip addres of your serveur 
 then you can run any systeme commande or any of these
-
-## Fonctionalites
-This backdoor can run on both Windows and linux and will grand you full controle of that computer, you can use all the systeme commandes you can execute programmes, you can take screenshots you umpload and download files and it's also persistent 
-
 #### Commands
 | Command   | Description                                                                    |
 | --------- | ------------------------------------------------------------------------------ |
