@@ -12,7 +12,7 @@ Installing a library
 ## Installing the backdoor 
 First you have to download the project
 
-    git clone 
-    cd Summer-Personalproject
+    git clone https://github.com/rriiaad/Summer-challanges.git
+    cd Summer-challanges/Personal Project
 
 
