@@ -35,3 +35,4 @@ then you can run any systeme commande or any of these
 | `screen`   | Takes a Screenshot of the victimes machine and downloading it                                                   |
 | `Upload`   | Upload file name, will let you send a file to the victimes machine                                                 |
 | `screen`   | download file name, will let you download any file from the victimes machine                                              |
+| `exit`   | to close the connexion and stop the programe on both ends                                                   |
