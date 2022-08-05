@@ -8,6 +8,11 @@ You should also install all the required third party libraries
 Installing a library 
 
     pip install library name
-    
+ 
+## Installing the backdoor 
+First you have to download the project
+
+    git clone 
+    cd Summer-Personalproject
 
 
