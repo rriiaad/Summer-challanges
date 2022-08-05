@@ -40,4 +40,12 @@ then you can run any systeme commande or any of these
 
 you can also execute any file just by writing down it's name
 
+## disclamer
+i'm not responsible of anything your are goging to do this with this
+<br/>
+your are resposible for all your actions
+<br/>
+your are not allowed to use this code without my permission and for now your not allowed :)
+<br/>
+this code was created for educational purposes only
 
