@@ -24,4 +24,7 @@ you can also compile the backdoor.py file to make an executable by using this co
 if you don't have pyinstaller insttalted you shoudl run this commande
 
      pip install pyinstaller
+     
+## Usage 
+Before running this programe make sure to change the IP addres in both files to the ip addres of your serveur 
 
