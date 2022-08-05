@@ -41,11 +41,8 @@ then you can run any systeme commande or any of these
 you can also execute any file just by writing down it's name
 
 ## disclamer
-I'm not responsible of anything your are goging to do this with this
-<br/>
-Your are resposible for all your actions
-<br/>
-Your are not allowed to use this code without my permission and for now your not allowed :)
-<br/>
-This code was created for educational purposes only
+- I'm not responsible of anything your are goging to do this with this
+- Your are resposible for all your actions
+- Your are not allowed to use this code without my permission and for now your not allowed :)
+- This code was created for educational purposes only
 
