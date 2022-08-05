@@ -1,5 +1,5 @@
 # Backdoor
-a backdoor is a programme that let you have control of a machine that gets affected by it basically giving you a backdoor acces to it
+A backdoor is a programme that let you have control of a machine that gets affected by it basically giving you a backdoor acces to it
 
 ## How to install
 You should have [python3](https://www.python.org/) installed on your pc 
@@ -14,5 +14,7 @@ First you have to download the project
 
     git clone https://github.com/rriiaad/Summer-challanges.git
     cd Summer-challanges/Personal Project
+
+After that you will have to use lanche the <strong> backdoor.py <strong/> file on the computer you want to test it on after that lanche the <strong> server.py <strong/> file and after you get a connexion you can start working 
 
 
