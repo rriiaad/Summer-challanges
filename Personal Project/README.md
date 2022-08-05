@@ -23,5 +23,5 @@ you can also compile the backdoor.py file to make an executable by using this co
      
 if you don't have pyinstaller insttalted you shoudl run this commande
 
-    pip install pyinstaller
+     pip install pyinstaller
 
